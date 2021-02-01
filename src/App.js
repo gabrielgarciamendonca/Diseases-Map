@@ -1,6 +1,10 @@
+import React, { Component } from 'react';
+import MapComponent from './Components/MapComponent';
 
-function App() {
-  return (<span>In Development</span>);
+class App extends Component{
+  render() {
+    return <MapComponent />
+  }
 }
 
 export default App;
