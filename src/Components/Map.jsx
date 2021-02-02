@@ -21,7 +21,7 @@ class Map extends Component {
       }}
       // Note: you will need to get a mapsApiKey for your project.
       // See: https://developers.google.com/chart/interactive/docs/basic_load_libs#load-settings
-      mapsApiKey="AIzaSyCV_wiYoVBhNRMISrIoGT4syoVHS0ukP8w"
+      mapsApiKey="[YOUR API GOOGLE KEY]"
       rootProps={{ 'data-testid': '1' }}
     />)
   }
